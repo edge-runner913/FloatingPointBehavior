@@ -1,0 +1,36 @@
+128
+ScopeTimer [add] start
+3
+ScopeTimer [add] end - Elapsed time 0.021(0.021c) sec, VmSize 6(=0) Mb, VmRSS 3(+0) Mb
+ScopeTimer [sub] start
+-1
+ScopeTimer [sub] end - Elapsed time 0.018(0.018c) sec, VmSize 6(=0) Mb, VmRSS 4(=0) Mb
+ScopeTimer [mul] start
+2
+ScopeTimer [mul] end - Elapsed time 0.018(0.018c) sec, VmSize 6(=0) Mb, VmRSS 4(=0) Mb
+ScopeTimer [div] start
+0.5
+ScopeTimer [div] end - Elapsed time 0.099(0.098c) sec, VmSize 6(=0) Mb, VmRSS 4(=0) Mb
+ScopeTimer [sine] start
+0.8414709848078965
+ScopeTimer [sine] end - Elapsed time 0.440(0.440c) sec, VmSize 6(=0) Mb, VmRSS 4(+0) Mb
+ScopeTimer [square] start
+1
+ScopeTimer [square] end - Elapsed time 0.112(0.111c) sec, VmSize 6(=0) Mb, VmRSS 4(=0) Mb
+ScopeTimer [power] start
+1
+ScopeTimer [power] end - Elapsed time 0.542(0.542c) sec, VmSize 6(=0) Mb, VmRSS 4(=0) Mb
+ScopeTimer [sqrt] start
+1
+ScopeTimer [sqrt] end - Elapsed time 0.112(0.111c) sec, VmSize 6(=0) Mb, VmRSS 4(=0) Mb
+ScopeTimer [expon] start
+2.7182818284590451
+ScopeTimer [expon] end - Elapsed time 0.256(0.256c) sec, VmSize 6(=0) Mb, VmRSS 4(=0) Mb
+ScopeTimer [Normal Loop] start
+ScopeTimer [Normal Loop] end - Elapsed time 0.007(0.007c) sec, VmSize 159(=0) Mb, VmRSS 156(=0) Mb
+ScopeTimer [Abnormal Loop] start
+ScopeTimer [Abnormal Loop] end - Elapsed time 0.309(0.309c) sec, VmSize 159(=0) Mb, VmRSS 156(=0) Mb
+ScopeTimer [run_memory_bound_core] start
+ScopeTimer [run_memory_bound_core] end - Elapsed time 0.001(0.000c) sec, VmSize 6(=0) Mb, VmRSS 4(+0) Mb
+ScopeTimer [run_memory_bound_core] start
+ScopeTimer [run_memory_bound_core] end - Elapsed time 0.264(0.263c) sec, VmSize 6(=0) Mb, VmRSS 4(=0) Mb
